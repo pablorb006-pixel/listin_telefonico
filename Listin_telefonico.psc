@@ -8,11 +8,11 @@ Algoritmo listin
 	Dimensionar vtelefono[5];
 	
 	n = 0;
-	nombre = "";
-	telefono= "";
+	nombre = "-";
+	telefono= "-";
 	
-	vnombre[0] = "Pablo";
-	vtelefono[0] = "465 68 30 38";
+	vnombre[0] = "-";
+	vtelefono[0] = "-";
 	
 	Repetir
 		Escribir "1. Guardar contacto";
